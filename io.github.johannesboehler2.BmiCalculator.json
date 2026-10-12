@@ -28,7 +28,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/johannesboehler2/bmicalculator.git",
-                    "commit": "9521352afca0f5b82685529cb7d206c888466fad"
+                    "commit": "596a8289232ac8b7f32d94e6264a8c43821733c8"
                 },
                 {
                   "type": "inline",
